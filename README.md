@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Nadia!
+# Hola, I'm Nadia!
 
 ## 🎓 About Me
 I'm a passionate software developer who made a bold career transition after 4 years as an occupational therapist. Currently completing my **AEC in Internet of Things and Artificial Intelligence** (ACS) at Collège Ahuntsic, graduating in **December 2025**.
@@ -9,10 +9,10 @@ I'm a passionate software developer who made a bold career transition after 4 ye
 ## 🚀 What Drives Me
 - 💡 Embracing challenges and learning new technologies
 - 🤖 Leveraging AI and automation to make life easier
-- 🌱 Constantly exploring the intersection of software development and artificial intelligence
+- 🔎 Constantly exploring the intersection of software development and artificial intelligence
 - 💪 Not afraid to dive into complex problems and find innovative solutions
 
-## 🛠️ Tech Stack & Interests
+## 🖥️ Tech Stack & Interests
 - Artificial Intelligence & Machine Learning
 - Internet of Things (IoT)
 - Process Automation
